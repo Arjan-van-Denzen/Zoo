@@ -1,0 +1,1 @@
+This is a simple application that zookeepers could use to keep track of the animals in a zoo. It was created in collaboration with CBolle as part of a traineeship bootcamp. It is not polished, but the main functions work. You need to be running a local database called "zoo" in order to successfully use this programme (by running /src/main.py).
